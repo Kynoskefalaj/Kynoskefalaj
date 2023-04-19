@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kynoskefalaj
-- 👀 I’m interested in programming and software testing
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in software development and software testing
+- 🌱 I’m currently learning Java by creating my own projects and API testing 
+- 💞️ I’m looking for a job in software development.
+- 📫 How to reach me: adam.guminski@gmail.com
 
 <!---
 Kynoskefalaj/Kynoskefalaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
