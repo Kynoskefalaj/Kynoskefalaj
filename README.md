@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Kynoskefalaj
+- 👋 Hi, I’m Adam aka @Kynoskefalaj
 - 👀 I’m interested in software development and software testing
-- 🌱 I’m currently learning Java by creating my own projects and API testing via Postman, testNG and Java Rest Assured.
-- 💞️ I’m looking for a job in software development.
+- 🌱 I’m currently learning Java and Spring framework by creating my own projects
+- 💞️ I’m looking for a job in software development
 - 📫 How to reach me: adam.guminski@gmail.com
 
 <!---
