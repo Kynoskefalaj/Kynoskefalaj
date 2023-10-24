@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Adam aka @Kynoskefalaj
+- 👋 Hi, I’m Adam also known as @Kynoskefalaj
 - 👀 I’m interested in software development and software testing
 - 🌱 I’m currently learning Java and Spring framework by creating my own projects
 - 💞️ I’m looking for a job in software development
